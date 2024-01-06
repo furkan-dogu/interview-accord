@@ -8,6 +8,12 @@
 
 This project includes a web application that provides an accordion list of commonly asked interview questions and their corresponding answers.
 
+## Table of Contents
+
+- [Features](#features)
+- [Project Skeleton](#project-skeleton)
+- [Screenshots](#screenshots)
+
 ## Live Project Link
 
 You can access the live version of the project [here](https://interview-accord-eight.vercel.app/).
